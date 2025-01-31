@@ -4,7 +4,7 @@
 <br />
 <br />
 ## My values
-
+열심히!
 <br />
 <br />
 <br />
@@ -14,6 +14,7 @@
 <br />
 <br />
 ## Skills
+
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img alt="Python" src ="https://img.shields.io/badge/black.svg"/>
